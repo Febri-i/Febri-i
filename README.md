@@ -12,5 +12,5 @@ im Febri Bayu Nurcahyo, i do web dev stuff. Check them out!
 
 ## Resources
 
-- [My portofolio](febri-i.github.io)
-- [All of my work](febri-i.github.io/mercusuar)
+- [My portofolio](https://febri-i.github.io)
+- [All of my work](https://febri-i.github.io/mercusuar)
